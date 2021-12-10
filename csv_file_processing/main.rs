@@ -39,9 +39,7 @@ fn read_csv(path:&str,name:String)->Result<(),Box<dyn Error>>
         break;}
         // println!("{:#?}",record);//This will prints all the data in the csv file
         else 
-        { count+=1;
-        //    println!("No record found for the student_name entered.");
-        }
+        { count+=1;}
         
     }
     if count>1
