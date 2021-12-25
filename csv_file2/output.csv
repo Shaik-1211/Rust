@@ -1,10 +1,10 @@
-first_name,Last_name,Fullname
-Salma,shaik,Salma shaik
-khalid,shaik,khalid shaik
-John,Doe,John Doe
-Taaha,khan,Taaha khan
-Uzair,khan,Uzair khan
-Mujeeb,shaik,Mujeeb shaik
-Waseem,shaik,Waseem shaik
-Firoz,khan,Firoz khan
-Huzaif,khan,Huzaif khan
+first_name,Last_name,Fullname,Dot extension,Length of dot extension
+Salma,shaik,Salma shaik,Salma.S,7
+khalid,shaik,khalid shaik,khalid.k,8
+John,Doe,John Doe,John.J,6
+Taaha,khan,Taaha khan,Taaha.T,7
+Uzair,khan,Uzair khan,Uzair.U,7
+Mujeeb,shaik,Mujeeb shaik,Mujeeb.M,8
+Waseem,shaik,Waseem shaik,Waseem.W,8
+Firoz,khan,Firoz khan,Firoz.F,7
+Huzaif,khan,Huzaif khan,Huzaif.H,8
